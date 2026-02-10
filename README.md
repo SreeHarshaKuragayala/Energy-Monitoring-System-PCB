@@ -182,13 +182,6 @@ CT Sensors (×10) → Signal Conditioning → ESP32-S3 ADC → Processing
 
 ## 📈 Project Outcomes & Impact
 
-### Quantifiable Results
-- **Development Time:** 3 months (concept to fabrication-ready)
-- **Prototype Iterations:** 2 (Rev A for functional testing, Rev B for production)
-- **Manufacturing Cost:** $25/unit (at 100-unit volume)
-- **Energy Accuracy:** ±1% (verified against calibrated power meter)
-- **System Uptime:** 99.7% (including battery backup)
-
 ### Skills Demonstrated
 - ✔️ **End-to-End Product Development:** From requirements gathering to production
 - ✔️ **Cross-Functional Collaboration:** Worked with firmware team and mechanical engineers
