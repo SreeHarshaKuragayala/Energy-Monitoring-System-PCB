@@ -14,7 +14,6 @@ Central Manufacturing Technology Institute (CMTI), Bangalore
 
 <img src="https://img.shields.io/badge/PCB-Design-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/ESP32-S3-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/IoT-MQTT-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/KiCad-EDA-blueviolet?style=for-the-badge">
 <img src="https://img.shields.io/badge/Embedded-Hardware-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Industrial-Project-darkgreen?style=for-the-badge">
