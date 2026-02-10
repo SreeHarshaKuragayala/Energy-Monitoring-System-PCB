@@ -6,8 +6,19 @@ Industrial IoT Hardware • ESP32-S3 • Multi-Channel Energy Monitoring • Emb
 
 <p align="center">
 <b>Sree Harsha Kuragayala</b><br>
-Embedded Hardware & IoT Engineer<br>
+Graduate Apprentice (2025) • Embedded Hardware & IoT<br>
 Central Manufacturing Technology Institute (CMTI), Bangalore
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PCB-Design-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/ESP32-S3-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/IoT-MQTT-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/KiCad-EDA-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/Embedded-Hardware-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Industrial-Project-darkgreen?style=for-the-badge">
+
 </p>
 
 ---
@@ -122,7 +133,7 @@ Full schematics, firmware, Gerbers, and proprietary data are intentionally exclu
 ## Contact
 
 **Sree Harsha Kuragayala**  
-Embedded Hardware • IoT • AI Systems  
+Graduate Apprentice  • Embedded Hardware • IoT   
 📧 sreeharsha.k83@gmail.com  
 
 ---
