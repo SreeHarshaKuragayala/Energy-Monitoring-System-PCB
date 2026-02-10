@@ -21,6 +21,22 @@ The Energy Monitoring System PCB is an industrial-grade hardware solution design
 
 ---
 
+## Hardware Preview
+
+### 3D PCB View
+![3D PCB](3D.jpg)
+
+### PCB Top Layer
+![PCB Top](TOP.jpg)
+
+### PCB Bottom Layer
+![PCB Bottom](BOTTOM.png)
+
+### Schematic Overview
+![Schematic](SCHEMATIC.jpg)
+
+---
+
 ## Key Features
 
 - ESP32-S3 based high-performance microcontroller  
