@@ -1,7 +1,7 @@
 # Energy Monitoring System PCB
 
 **Author:** Sree Harsha Kuragayala  
-**Role:** PCB Design & Embedded Hardware Engineer  
+**Role:** Graduate Apprentice  
 **Organization:** Central Manufacturing Technology Institute (CMTI), Bangalore  
 
 ---
@@ -80,7 +80,7 @@ Full schematics, firmware, and proprietary files are intentionally not included.
 ## Contact
 
 **Sree Harsha Kuragayala**  
-Embedded Hardware | IoT | AI Systems  
+Embedded Hardware | IoT 
 Email: sreeharsha.k83@gmail.com  
 
 ---
