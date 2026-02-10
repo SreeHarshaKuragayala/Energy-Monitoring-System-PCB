@@ -96,7 +96,7 @@ Full schematics, firmware, and proprietary files are intentionally not included.
 ## Contact
 
 **Sree Harsha Kuragayala**  
-Embedded Hardware | IoT 
+Graduate Apprentice
 Email: sreeharsha.k83@gmail.com  
 
 ---
