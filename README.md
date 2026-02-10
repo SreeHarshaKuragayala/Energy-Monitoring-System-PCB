@@ -12,7 +12,7 @@
 **Sree Harsha Kuragayala** | Graduate Apprentice - Embedded Hardware & IoT  
 Central Manufacturing Technology Institute (CMTI), Bangalore | 2025
 
-📧 sreeharsha.k83@gmail.com | [LinkedIn](#) | [Portfolio](#)
+📧 sreeharsha.k83@gmail.com 
 
 </div>
 
@@ -245,12 +245,8 @@ This project enhanced my expertise in:
 Graduate Apprentice | Embedded Hardware & IoT Engineer  
 Central Manufacturing Technology Institute (CMTI), Bangalore
 
-📧 **Email:** sreeharsha.k83@gmail.com  
-💼 **LinkedIn:** [Connect with me](#)  
-🌐 **Portfolio:** [View more projects](#)  
-📄 **Resume:** [Download PDF](#)
+📧 **Email:** sreeharsha.k83@gmail.com 
 
-> *I am actively seeking full-time opportunities in Embedded Hardware Design, PCB Engineering, and IoT Systems Development. Open to roles in R&D, product development, and hardware engineering teams.*
 
 ---
 
