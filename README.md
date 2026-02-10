@@ -9,10 +9,8 @@
 [![KiCad](https://img.shields.io/badge/KiCad-7.0-314CB0?style=flat-square&logo=kicad)](https://github.com)
 [![IoT](https://img.shields.io/badge/Industrial-IoT-00979D?style=flat-square)](https://github.com)
 
-**Sree Harsha Kuragayala** | Graduate Apprentice - Embedded Hardware & IoT  
+**Sree Harsha Kuragayala** | Graduate Apprentice  
 Central Manufacturing Technology Institute (CMTI), Bangalore | 2025
-
-📧 sreeharsha.k83@gmail.com 
 
 </div>
 
