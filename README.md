@@ -220,22 +220,9 @@ This project enhanced my expertise in:
 
 ---
 
-## 🚀 Future Enhancements (If Continued)
-
-- [ ] Upgrade to ESP32-S3-WROOM-2 for USB-C native support
-- [ ] Add Zigbee/LoRaWAN for long-range industrial networks
-- [ ] Implement edge ML for predictive maintenance (TensorFlow Lite)
-- [ ] Design custom 4-layer PCB for higher noise immunity
-- [ ] Integrate current transformers on-board (fully integrated solution)
-
----
-
-## 📞 Contact & Professional Links
-
 **Sree Harsha Kuragayala**  
 Graduate Apprentice | Embedded Hardware & IoT Engineer  
 Central Manufacturing Technology Institute (CMTI), Bangalore
-
 📧 **Email:** sreeharsha.k83@gmail.com 
 
 
